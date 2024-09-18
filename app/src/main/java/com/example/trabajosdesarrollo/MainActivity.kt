@@ -6,7 +6,7 @@ import androidx.activity.compose.setContent
 import com.example.trabajosdesarrollo.ui.Interfaz
 import com.example.trabajosdesarrollo.ui.theme.TrabajosDesarrolloTheme
 
-class MainActivity : ComponentActivity() {
+class MainActivity : ComponentActivity() {//Daniel Santiago Medrano Gomez
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
